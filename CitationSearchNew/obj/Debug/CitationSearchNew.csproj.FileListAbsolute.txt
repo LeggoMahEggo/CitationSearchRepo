@@ -1,0 +1,10 @@
+C:\Users\Yehuda\source\repos\CitationSearchNew\CitationSearchNew\bin\Debug\CitationSearchNew.exe.config
+C:\Users\Yehuda\source\repos\CitationSearchNew\CitationSearchNew\bin\Debug\CitationSearchNew.exe
+C:\Users\Yehuda\source\repos\CitationSearchNew\CitationSearchNew\bin\Debug\CitationSearchNew.pdb
+C:\Users\Yehuda\source\repos\CitationSearchNew\CitationSearchNew\obj\Debug\CitationSearchNew.csprojAssemblyReference.cache
+C:\Users\Yehuda\source\repos\CitationSearchNew\CitationSearchNew\obj\Debug\CitationSearchNew.Form1.resources
+C:\Users\Yehuda\source\repos\CitationSearchNew\CitationSearchNew\obj\Debug\CitationSearchNew.Properties.Resources.resources
+C:\Users\Yehuda\source\repos\CitationSearchNew\CitationSearchNew\obj\Debug\CitationSearchNew.csproj.GenerateResource.cache
+C:\Users\Yehuda\source\repos\CitationSearchNew\CitationSearchNew\obj\Debug\CitationSearchNew.csproj.CoreCompileInputs.cache
+C:\Users\Yehuda\source\repos\CitationSearchNew\CitationSearchNew\obj\Debug\CitationSearchNew.exe
+C:\Users\Yehuda\source\repos\CitationSearchNew\CitationSearchNew\obj\Debug\CitationSearchNew.pdb
